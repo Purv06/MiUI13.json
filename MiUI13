@@ -1,122 +1,163 @@
 [
     {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/1.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/2.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/3.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/4.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/5.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/6.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/7.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/8.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/9.jpg",
+      "name": "wall"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/10.png",
+      "name": "wall"
+    },
+    
+    {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136151.jpg",
-      "name": "wall 1"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136152.jpg",
-      "name": "wall 2"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136154.jpg",
-      "name": "wall 3"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136155.jpg",
-      "name": "wall 4"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136156.jpg",
-      "name": "wall 5"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136157.jpg",
-      "name": "wall 6"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/MIUI%20136158.jpg",
-      "name": "wall 7"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Pocophone%20F3%20GT5640.jpg",
-      "name": "wall 8"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Redmi%20K40%20Game%20Edition5470.jpg",
-      "name": "wall 9"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Redmi%20K40%20Game%20Edition5472.png",
-      "name": "wall 10"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2011i6183.jpg",
-      "name": "wall 11"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2011i6185.jpg",
-      "name": "wall 12"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2011i6187.jpg",
-      "name": "wall 13"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2011t%20Pro5833.jpg",
-      "name": "wall 14"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2011t%20Pro5834.jpg",
-      "name": "wall 15"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2012%20Pro6140.jpg",
-      "name": "wall 16"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2012%20Pro6141.jpg",
-      "name": "wall 17"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2012%20Pro6144.jpg",
-      "name": "wall 18"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2012%20Pro6147.jpg",
-      "name": "wall 19"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2012%20Pro6148.jpg",
-      "name": "wall 20"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%2012%20Pro6149.jpg",
-      "name": "wall 21"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Civi5889.jpg",
-      "name": "wall 22"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Civi5890.jpg",
-      "name": "wall 23"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Civi5895.jpg",
-      "name": "wall 24"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Mi%20Mix%2045726.png",
-      "name": "wall 25"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Mi%20Mix%2045727.png",
-      "name": "wall 26"
+      "name": "wall "
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Mi%20Mix%2045728.png",
-      "name": "wall 27"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Mi%20Mix%2045732.jpg",
-      "name": "wall 28"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Mi%20Mix%2045734.png",
-      "name": "wall 29"
+      "name": "wall"
     },
     {
       "url": "https://raw.githubusercontent.com/Purv06/MiUI13.json/main/Xiaomi%20Mi%20Pad%2065745.jpg",
-      "name": "wall 30"
+      "name": "wall"
     }
 ]
